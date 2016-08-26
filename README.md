@@ -6,3 +6,5 @@ test
 
 
 test
+
+![alt text](The Beacon Images.png "Polar bears :D")
