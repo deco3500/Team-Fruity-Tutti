@@ -3,7 +3,7 @@
 A Project by Team Fruity-Tutti
 
 Project name: "The Beacon"
-![alt text](titlepage.png "Polar bears :D")
+![alt text](titlepage.png "Title page")
 
 Team Fruity Tutti have chosen the project “The Beacon” to work on throughout the semester.  
 
@@ -19,7 +19,7 @@ Third level would show text and images, video and audio based new stories.
 Fourth level would show text and images, video, audio and social media based news stories. By having these different “levels” of functionality the application will be able to cater to a wider audience of users. 
 
 
-![alt text](The Beacon Images.png "Polar bears :D")
+![alt text](NewBeacon.png "Polar bears :D")
 
 
 The beacon aims to be a technological solution to the digital illiteracy of many citizens.
