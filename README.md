@@ -56,12 +56,12 @@ Jonas Wong - Third year Information Technology (BInfTech) student no major. Skil
 
 Theodore Just - Third year Information Technology (BInfTech) student majoring in human-computer interaction and software information systems. Skills: C#, HTML/CSS, and Java.
 
-##Roles 
-Team Leader	-	Zoe Nicholson
-Design		-	Zoe, Grace
-Front end	-	Jonas, Zoe, Grace
-Back end	-	Theodore 
-Content	-	All Team Members
+##ROLES
+* Team Leader	-	Zoe Nicholson
+* Design		-	Zoe, Grace
+* Front end	-	Jonas, Zoe, Grace
+* Back end	-	Theodore 
+* Content	-	All Team Members
 
 The team leader, Zoe, will be responsible for logistics and organising meetings. All team members are expected to contribute to equally to the project and are expected to be self-motivated in selecting tasks to work on. As the team has a mix of technologically centered and design centered members , we are able to collaborate, mixing both design and technical aspects to ensure that the problem space is fully considered from both a design and technical perspective.
 
@@ -75,7 +75,7 @@ The team is self directed and will make major decisions as a group, disagreement
 Repeated strikes of poor performance (not attending meetings, not submitting assigned work) will result in a penalty to the offenders grade.
 
 #COMMUNICATION
-##Team Communication: 
+##TEAM COMMUNICATION: 
 
 Meetings will be held every week in contact sessions (Friday, 10AM). If needed, additional meetings will be scheduled throughout the week when all team members are available to attend. Team communication will primarily be through the private Slack channel. This will be used to organise extra meetings, discuss tasks to be completed and any other relevant project-related matters. The whole team has access to the Slack channel and all team members are expected to check the Slack channel at least once a day for any updates. Slack was chosen as the whole team is familiar with it and everyone has an account. 
 
@@ -90,8 +90,8 @@ A shared Google Drive folder has been created to store documentation for the pro
 All team members are expected to refer to the Zenhub board, which will act as the single source of truth if they are unsure of which tasks they are required to complete. If a team member is unable meet a deadline for a task, they should notify the team at least 24 hours beforehand. The team can then help distribute aspects of the task so that it is completed on time. 
 
 #OUR COLLABORATION TOOLS:
-GitHub: https://github.com/deco3500/Team-Fruity-Tutti
-ZenHub: https://github.com/deco3500/Team-Fruity-Tutti/issues#boards?repos=66042754
+* GitHub: https://github.com/deco3500/Team-Fruity-Tutti
+* ZenHub: https://github.com/deco3500/Team-Fruity-Tutti/issues#boards?repos=66042754
 
 #PLAN
 Team Fruity Tutti aims to have three phases throughout the development process of The Beacon in order to flesh out the project completely. In order, these are the Research/Requirements, Design and Construction phases. Each phase outlined below will include the key deliverables and resources we will need to complete the phase. Throughout each phase, the team will continue to iterate and test to ensure that the concept evolves as much as possible. 
@@ -102,10 +102,10 @@ By the end of this phase we should have a set of personas to help us understand 
 *Milestone: Feedback Session 1 in week 8*
 
 Key Deliverables: 
-Understand target use group demographic (produce 1-2 personas of the envisioned user)
-Explore how we can use the concepts of Conversation, Coordination, Collaboration and Awareness 
-User research has been conducted and survey/ interview results are analysed
-Lean canvas is produced that documents the problem, solution, key metrics, costs etc.
+* Understand target use group demographic (produce 1-2 personas of the envisioned user)
+* Explore how we can use the concepts of Conversation, Coordination, Collaboration and Awareness 
+* User research has been conducted and survey/ interview results are analysed
+* Lean canvas is produced that documents the problem, solution, key metrics, costs etc.
 
 **Design phase: Weeks 9 - 10**
 This phase will be dedicated to designing the framework of the application, such as creating a basic code framework to which we can add features. We will also ensure that we have fleshed out each level of literacy for the app so we know exactly what we will include in each level (e.g different levels of image and text).  We will also create several visual prototypes of how the application will look. These will include mockups that define exactly how each level of The Beacon will work. The mockups will be user tested so that we can iterate and improve the prototype for the construction phase.
@@ -113,10 +113,10 @@ This phase will be dedicated to designing the framework of the application, such
 *Milestone: Feedback session 2 in week 10*
 
 Key Deliverables:
-Basic HTML/ CSS framework is deployed on the zone.
-Report documenting exactly what each level entails produced.
-Mockups for each level are produced using mockup apps such as Marvel.
-Mockups tested and survey results are analysed to improve the prototype.
+* Basic HTML/ CSS framework is deployed on the zone.
+* Report documenting exactly what each level entails produced.
+* Mockups for each level are produced using mockup apps such as Marvel.
+* Mockups tested and survey results are analysed to improve the prototype.
 
 **Construction phase: Weeks 11 - 13**
 The web prototype is built upon until near completion and content is generated/found to put into the prototype. The final prototype will be highly advanced. User testing will be completed on the prototype so that the finished product is the best possible version. Feedback received is implemented.
@@ -124,8 +124,8 @@ The web prototype is built upon until near completion and content is generated/f
 *Milestone: Feedback session 3 in week 12*
 
 Key Deliverables:
-Fully developed web prototype deployed on zone
-User testing completed and feedback implemented
+* Fully developed web prototype deployed on zone
+* User testing completed and feedback implemented
 
 
 #BIBLIOGRAPHY
