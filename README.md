@@ -100,7 +100,7 @@ Team Fruity Tutti aims to have three phases throughout the development process o
 By the end of this phase we should have a set of personas to help us understand digital illiteracy and who the target user group is. We also aim to have an understanding of the technological hurdles we will have to overcome to create our application. The team will also explore Conversation, Coordination, Collaboration and Awareness to understand how The Beacon can support these concepts.  During this phase we will define the requirements of the application on a technological and design level. Conducting user research will also help ensure that we know exactly what the user needs and who we are building for so that we can cater directly to the target group. In order to conduct the research, we will conduct interviews and surveys with participants from the target group. We will also use a lean canvas scaffold to ensure that the whole project has been fleshed out.                     
 
 ####Milestone: 
-* Feedback Session 1 in week 8*
+* Feedback Session 1 in week 8
 
 ####Key Deliverables: 
 * Understand target use group demographic (produce 1-2 personas of the envisioned user)
@@ -112,7 +112,7 @@ By the end of this phase we should have a set of personas to help us understand 
 This phase will be dedicated to designing the framework of the application, such as creating a basic code framework to which we can add features. We will also ensure that we have fleshed out each level of literacy for the app so we know exactly what we will include in each level (e.g different levels of image and text).  We will also create several visual prototypes of how the application will look. These will include mockups that define exactly how each level of The Beacon will work. The mockups will be user tested so that we can iterate and improve the prototype for the construction phase.
 
 #### Milestone:
-* Feedback session 2 in week 10*
+* Feedback session 2 in week 10
 
 ####Key Deliverables:
 * Basic HTML/ CSS framework is deployed on the zone.
