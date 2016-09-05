@@ -96,7 +96,7 @@ ZenHub: https://github.com/deco3500/Team-Fruity-Tutti/issues#boards?repos=660427
 ###PLAN
 Team Fruity Tutti aims to have three phases throughout the development process of The Beacon in order to flesh out the project completely. In order, these are the Research/Requirements, Design and Construction phases. Each phase outlined below will include the key deliverables and resources we will need to complete the phase. Throughout each phase, the team will continue to iterate and test to ensure that the concept evolves as much as possible. 
 
-Research & requirements phase: Weeks 7 - 8
+**Research & requirements phase: Weeks 7 - 8**
 By the end of this phase we should have a set of personas to help us understand digital illiteracy and who the target user group is. We also aim to have an understanding of the technological hurdles we will have to overcome to create our application. The team will also explore Conversation, Coordination, Collaboration and Awareness to understand how The Beacon can support these concepts.  During this phase we will define the requirements of the application on a technological and design level. Conducting user research will also help ensure that we know exactly what the user needs and who we are building for so that we can cater directly to the target group. In order to conduct the research, we will conduct interviews and surveys with participants from the target group. We will also use a lean canvas scaffold to ensure that the whole project has been fleshed out.                     
 
 *Milestone: Feedback Session 1 in week 8*
@@ -107,7 +107,7 @@ Explore how we can use the concepts of Conversation, Coordination, Collaboration
 User research has been conducted and survey/ interview results are analysed
 Lean canvas is produced that documents the problem, solution, key metrics, costs etc.
 
-Design phase: Weeks 9 - 10
+**Design phase: Weeks 9 - 10**
 This phase will be dedicated to designing the framework of the application, such as creating a basic code framework to which we can add features. We will also ensure that we have fleshed out each level of literacy for the app so we know exactly what we will include in each level (e.g different levels of image and text).  We will also create several visual prototypes of how the application will look. These will include mockups that define exactly how each level of The Beacon will work. The mockups will be user tested so that we can iterate and improve the prototype for the construction phase.
 
 *Milestone: Feedback session 2 in week 10*
@@ -118,7 +118,7 @@ Report documenting exactly what each level entails produced.
 Mockups for each level are produced using mockup apps such as Marvel.
 Mockups tested and survey results are analysed to improve the prototype.
 
-Construction phase: Weeks 11 - 13
+**Construction phase: Weeks 11 - 13**
 The web prototype is built upon until near completion and content is generated/found to put into the prototype. The final prototype will be highly advanced. User testing will be completed on the prototype so that the finished product is the best possible version. Feedback received is implemented.
 
 *Milestone: Feedback session 3 in week 12*
