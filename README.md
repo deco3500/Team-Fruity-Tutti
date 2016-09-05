@@ -130,9 +130,11 @@ Key Deliverables:
 
 #BIBLIOGRAPHY
 
-Liberal Party of Australia. (2016). Improving the digital confidence and skills of senior Australians. [online] Available at: https://www.liberal.org.au/latest-news/2016/06/26/improving-digital-confidence-and-skills-senior-australians [Accessed 4 Sep. 2016].
 
-Theconversation.com. (2016). [online] Available at: http://theconversation.com/australias-digital-divide-is-narrowing-but-getting-deeper-55232 [Accessed 4 Sep. 2016].
+* Theconversation.com. (2016). [online] Available at: http://theconversation.com/australias-digital-divide-is-narrowing-but-getting-deeper-55232 [Accessed 4 Sep. 2016].
+
+* Liberal Party of Australia. (2016). Improving the digital confidence and skills of senior Australians. [online] Available at: https://www.liberal.org.au/latest-news/2016/06/26/improving-digital-confidence-and-skills-senior-australians [Accessed 4 Sep. 2016].
+
 
 
 
