@@ -1,7 +1,40 @@
+#sectiontitles {color: #ffffff;
+margin-bottom:0;
+font-size: 20px;
+font-family: 'Raleway', sans-serif;
+padding:0px;
+
+}
+
+#menu{height:100%;}
+
+#articleTitle{color:#3d3d3d;
+margin-top:0px;
+font-family: 'Raleway', sans-serif;
+text-align:justify;
+}
+
+#currentpage{color:#ffffff;
+background-color:#3D3D3D;}
+#beacon{
+width:100%;
+height:auto; 
+margin-left:10px;
+}
 body {
 	background-image: url('');
 	background-size: cover;
+	background-color:#3d3d3d;
+	height:100%;
 }
+
+
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+
 
 #all {
 	width: 100%;
@@ -13,7 +46,13 @@ body {
 	float: left;
 	width: 20%;
 	margin-right: 50px;
-}
+	background-color:#ffffff;
+	margin-left:0px;
+	padding-right: 30px;
+	left:0px;
+	border-right: solid #DF1D41 20px;
+	height:100%;
+	}
 
 .newscontent, .articleList {
 	width: 50%;
@@ -23,40 +62,67 @@ body {
 	height: 100%;
 	overflow: hidden;
 	padding: 2%;
+	
+	
 }
 
-#border {
-	position: fixed;
-	float: left;
-	height: 100vh;
-	width: 1px;
-	background-image: radial-gradient(#777777 50%, transparent 80%);
+
+#news{
+color:#DF1D41;
+font-size: 30px;
+font-family: 'Raleway', sans-serif;
+padding:0px;
+}
+
+#contentimage{
+margin-left:-4%;
+margin-top:-6%;
+width:700px;}
+
+#video{margin-left:-10%;}
+#video2{margin-left:-5%;
+margin-right:-5%;
+width:110%;
+border: 0px;}
+
+#socialmedia{
+margin-left:10%;
+
+
 }
 
 .divider {
 	float: left;
-	height: 1px;
-	width: 100%;
-	background-image: linear-gradient(to right, #777777 50%, transparent);
+	height: 20px;
+	width: 140%;
+	
+	background: linear-gradient(to right, #c60428,#DF1D41 ,#EC2A4E);
 	margin-bottom: 20px;
 }
 
+
 .newscontent p {
-	font-family: 'Source Code Pro', monospace;
+	font-family: 'Raleway', sans-serif;
+	text-align:justify;
 }
 
 .articleList p {
-	font-family: 'Source Code Pro', monospace;
+	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
 }
 
-h1 {
-	font-family: 'Playfair Display', serif;
+/*h1 {
+	font-family: 'Raleway, serif;
+	color:#ffffff;
+	text-align: justify;
 }
+*/
+
+/*Check this one here*/
 
 .newscontent h3, a {
-	font-family: 'Source Code Pro', monospace;
-	color: black;
+	font-family: 'Raleway', sans-serif;
+	color: #DF1D41;
 	text-decoration: none;
 	font-size: 16px;
 }
@@ -64,6 +130,30 @@ h1 {
 .newscontent h4 {
 	font-size: 12px;
 }
+
+.newscontent {color:#3d3d3d;
+background-color:#FFFFF5;
+box-shadow: 0px 0px 20px black;
+margin-top:1%;}
+
+.news {
+color:red;
+}
+
+#articledate, #author{
+color:#3d3d3d;
+text-align:center;
+font-size:14px;
+font-family: 'Raleway', sans-serif;
+
+}
+
+#author{margin-bottom:-15px;
+margin-top:10px;}
+
+#articledate{padding-bottom:30px;
+padding-top:0px;}
+
 
 nav {
 	width: 100%;
@@ -95,8 +185,10 @@ li {
 	background-color: #f4f5f6;
 	background-size: 200% 100%;
 	background-position: 90% 0px;
+	
 	-webkit-transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
 	-moz-transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
+	
 }
 
 .navLink {
@@ -104,7 +196,7 @@ li {
 	padding: 25px 0;
 	color: #454545;
 	text-align: center;
-	font-family: 'Source Code Pro', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	text-decoration: none;
 	-webkit-transition: color .1s;
 	-moz-transition: color .1s;
@@ -151,18 +243,32 @@ li:hover {
 }
 
 .articleList .red, .blue, .grey {
-	width: 200px;
-	height: 200px;
+	width: 175px;
+	height: 175px;
 	border: 1px solid;
 	border-color: black;
 	border-radius: 20px;
 	float: left;
-	padding: 20px;
-	margin: 0px 50px 50px 0px;
+	padding: 0px;
+	margin: 0px 32px 32px 0px;
 	font-family: 'Playfair Display', serif;
 	font-size: 22px;
 	overflow: hidden;
 	position: relative;
+}
+
+
+.firstcharacter { float: left; 
+color: #DF1D41; 
+font-size: 75px; 
+line-height: 60px; 
+padding-top: 4px; 
+padding-right: 8px; 
+padding-left: 3px; 
+font-family: 'Raleway', sans-serif; }
+	
+p{text-align:justify;
+	
 }
 
 .articleList .grey {
@@ -170,24 +276,31 @@ li:hover {
 	border-color: black;
 }
 
+.image :hover {opacity:0.8;
+background:#c60428;}
+
+
 .articleList .red {
-	box-shadow: 0px 0px 12px red;
-	border-color: red;
-	background-color: #fff9f9;
+	box-shadow: 0px 0px 12px #DF1D41;
+	border-color: #DF1D41;
+	
 }
 
 .articleList .blue {
-	box-shadow: 0px 0px 12px royalblue;
-	border-color: blue;
-	background-color: #f9f9ff;
+	box-shadow: 0px 0px 12px #3d7287;
+	border-color: #3d7287;
+	
 }
 
 .date {
 	font-family: 'Source Code Pro', sans-serif;
-	font-size: 12px;
+	font-size: 10px;
 	right: 15px;
 	bottom: 0px;
 	display: block;
+	color:#ffffff;
 	position: absolute;
+	width:190px;
+	text-align : right;
 }
 
