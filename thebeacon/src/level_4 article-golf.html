@@ -15,7 +15,14 @@
 			background-color: #0A3F54;
 		}
 	</style>
-	
+	<script>
+var bleep = new Audio();
+bleep.src = 'audio/pinit.mp3';
+var bleep1 = new Audio();
+bleep1.src = 'audio/ding.mp3';
+var bleep2 = new Audio();
+bleep2.src = 'audio/scratch.mp3';
+</script>
 </head>
 
 <body>
@@ -39,9 +46,25 @@
 		<span id="border"></span>
 		
 		<div class="newscontent">
+			<a href="#openModal">
+			<div id ="pinbutton">
+				<img src="images/pinicon.png" alt="Verizon drone" id="pinbuttonicon" onmousedown="bleep.play()" onmouseover ="this.src ='images/piniconhover.png'" onmouseout ="this.src='images/pinicon.png'" href = "#openmodal">	
+		</div>
+		</a>
 			<h1 id="articleTitle">AUSTRALIAN GOLF CLUBS LOOKING TO ATTRACT NEW MEMBERS AFTER TOUGH DECADE FOR THE SPORT</h1>
 			<h3 class="byline" id="author">By Scott Rollinson</h3>
 			<h4 class="byline" id="articledate">October 21, 2016 4:50 PM</h4>
+			<div id="openModal" class="modalDialog">
+    		<div>	<a href="#close" title="Close" class="close">X</a>
+
+        	<h2 id = "clickbox">DO YOU WANT TO PIN THIS ARTICLE?</h2>
+
+       		 <p>Pinning this article will save it to your social board page and allow you to see all the articles your friends have pinned. Your articles will be outlined in red and your friends in blue.</p>
+        	
+        	<a href ="#close" onmousedown="bleep1.play()"><button type="button" id = "YN" >YES</button></a>
+        	<a href ="#close" onmousedown="bleep2.play()"><button type="button" id = "YN" >NO</button></a>
+   			 </div>
+		</div>
 			<img src="images/golfarticle.png" alt="Verizon drone" id="contentimage">
 					<p>
 				<b><span class="firstcharacter">O</span>ctober is golf's equivalent of an open house, with clubs around the country throwing open their doors as they go on a membership drive.</b>

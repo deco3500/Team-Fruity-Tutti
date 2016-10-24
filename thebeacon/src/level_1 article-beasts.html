@@ -15,7 +15,14 @@
 			background-color: #0A3F54;
 		}
 	</style>
-	
+	<script>
+var bleep = new Audio();
+bleep.src = 'audio/pinit.mp3';
+var bleep1 = new Audio();
+bleep1.src = 'audio/ding.mp3';
+var bleep2 = new Audio();
+bleep2.src = 'audio/scratch.mp3';
+</script>
 </head>
 
 <body>
@@ -32,20 +39,38 @@
 				<li style="width: 100%"><a class="navLink" href="level_1 article-beasts.html" target=""id ="currentpage">LEVEL 1</a></li>
 				<li style="width: 100%"><a class="navLink" href="level_2 article-beasts.html" target="">LEVEL 2</a></li>
 				<li style="width: 100%"><a class="navLink" href="level_3 article-beasts.html" target="">LEVEL 3</a></li>
-				<li style="width: 100%"><a class="navLink" href="level_4 article-beasts.html" target="" >LEVEL 4</a></li>
+				<li style="width: 100%"><a class="navLink" href="level_4 article-beasts.html" target="">LEVEL 4</a></li>
 			</ul>
 		</div>
 		
 		<span id="border"></span>
 		
 		<div class="newscontent">
+		<a href="#openModal">
+			<div id ="pinbutton">
+				<img src="images/pinicon.png" alt="Verizon drone" id="pinbuttonicon" onmousedown="bleep.play()" onmouseover ="this.src ='images/piniconhover.png'" onmouseout ="this.src='images/pinicon.png'" href = "#openmodal">	
+		</div>
+		</a>
+
 					<h1 id="articleTitle">HARRY POTTER FANS REJOICE: FULL TRAILER RELEASED FOR FANTASTIC BEASTS AND WHERE TO FIND THEM</h1>
-			<h3 class="byline" id="author">By SMichael Lallo</h3>
+			<h3 class="byline" id="author">By Michael Lallo</h3>
 			<h4 class="byline" id="articledate">September 29, 2016 4:50 PM</h4>
-		
+			<div id="openModal" class="modalDialog">
+    		<div>	<a href="#close" title="Close" class="close">X</a>
+
+        	<h2 id = "clickbox">DO YOU WANT TO PIN THIS ARTICLE?</h2>
+
+       		 <p>Pinning this article will save it to your social board page and allow you to see all the articles your friends have pinned. Your articles will be outlined in red and your friends in blue.</p>
+        	
+        	<a href ="#close" onmousedown="bleep1.play()"><button type="button" id = "YN" >YES</button></a>
+        	<a href ="#close" onmousedown="bleep2.play()"><button type="button" id = "YN" >NO</button></a>
+   			 </div>
+		</div>
 					<p>
 				<b><span class="firstcharacter">T</span>he first full trailer for JK Rowling's Fantastic Beasts and Where to Find Them is finally here.</b>
 			</p>
+
+		
 			<p>
 				Based on a 2001 book by Rowling, Fantastic Beasts purports to be a copy of Harry Potter's textbook – about the magical creatures of the Potter universe – first mentioned in Harry Potter and the Philosopher's Stone. Rowling has also penned the screenplay – her first foray into writing movies.
 			</p>
