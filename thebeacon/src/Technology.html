@@ -32,7 +32,6 @@
 				<li style="width: 100%"><a  class="navLink" href="index.html" target="" >TOP STORIES</a></li>
 				<li style="width: 100%"><a class="navLink" href="Australia.html" target="">AUSTRALIA</a></li>
 				<li style="width: 100%"><a class="navLink" href="World.html" target="">WORLD</a></li>
-				<li style="width: 100%"><a class="navLink" href="Politics.html" target="">POLITICS</a></li>
 				<li style="width: 100%"><a class="navLink" href="Technology.html" target="" id="currentpage">TECHNOLOGY</a></li>
 				<li style="width: 100%"><a class="navLink" href="Business.html" target="">BUSINESS</a></li>
 				<li style="width: 100%"><a class="navLink" href="Entertainment.html" target="">ENTERTAINMENT</a></li>
@@ -44,15 +43,42 @@
 		
 		<div class="articleList">
 			<!--<div class="article"><a href="level_1.html">Hallo!</a></div>-->
-			<p id = "sectiontitles">TECHNOLOGY STORIES</p><span class="divider"></span>
+			<p id = "sectiontitles">TOP STORIES IN TECHNOLOGY</p><span class="divider"></span>
 
-			<div class ="image">
-				<a href="level_1.html"><div class="grey"><img src="images/drones.png" alt="The Beacon" style="width:100%;height:auto;"></img><span class="date">Tuesday 18th - 02:30pm</span></div></a>
-			</div>
-			<div class ="image">
-				<a href="level_1 article-mars.html"><div class="grey"><img src="images/mars.png" alt="The Beacon" style="width:100%;height:auto;"></img><span class="date">Monday 17th - 02:30pm</span></div></a>
-			</div>		
-		
+		<table id = "todaysstories">
+		<tr>
+			<td>
+				<a class="navLink" href="level_1.html">
+				<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+  						<div class="flipper">
+    							<div class="front">
+     								 <img src = "images/drones.png" id = "imagetest">
+   
+    							</div>
+    							<div class="back">
+      								<img src = "images/drones2.png" id = "imagetest">
+   	 							</div>
+  						</div>
+				</div>
+			</a>
+			</td>
+			<td>
+				<a class="navLink" href="level_1 article-mars.html">
+				<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+  						<div class="flipper">
+    							<div class="front">
+     								 <img src = "images/mars.png" id = "imagetest">
+   
+    							</div>
+    							<div class="back">
+      								<img src = "images/mars2.png" id = "imagetest">
+   	 							</div>
+  						</div>
+				</div>
+			</a>
+			</td>
+		</tr>
+	</table>	
 	</div>
 	
 </body>
