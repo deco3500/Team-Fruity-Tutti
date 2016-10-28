@@ -10,9 +10,17 @@
 	<link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 	<style>
-		#active {
-			color: white;
-			background-color: #0A3F54;
+		.levelBox {
+			height: 100px;
+			width: 100px;
+			float: left;
+			border-radius: 20px;
+			padding: 10px;
+			margin: 10px;
+			text-align: center;
+			font-family: 'Raleway', sans-serif;
+			color: black;
+			box-shadow: 0px 0px 10px black;
 		}
 	</style>
 	
@@ -27,9 +35,9 @@
 			<ul id="menu">
 				<!-- Code for menu generated from: http://codepen.io/GoaglegUI/pen/kpysw -->
 				<li style="width: 100%"><a class="navLink" href="board.html" target="">SOCIAL</a></li>
-				<li style="width: 100%"><a class="navLink" href="profile.html" target="">MY PROFILE</a></li>
+				<li style="width: 100%"><a id="currentpage" class="navLink" href="profile.html" target="">MY PROFILE</a></li>
 				<p style="width: 100%" class="navLink" id = "news">NEWS</p><p />
-				<li style="width: 100%"><a id="active" class="navLink" href="index.html" target="">TOP STORIES</a></li>
+				<li style="width: 100%"><a class="navLink" href="index.html" target="">TOP STORIES</a></li>
 				<li style="width: 100%"><a class="navLink" href="index.html" target="">AUSTRALIA</a></li>
 				<li style="width: 100%"><a class="navLink" href="index.html" target="">WORLD</a></li>
 				<li style="width: 100%"><a class="navLink" href="index.html" target="">POLITICS</a></li>
@@ -42,9 +50,29 @@
 		
 		<span id="border"></span>
 		
-		<div class="newsContent">
+		<div class="newscontent">
 			<!--<div class="article"><a href="level_1.html">Hallo!</a></div>-->
-			
+			<h1 id="articleTitle">Profile</h1>
+			<p>Username:&emsp;admin01&emsp;&emsp;&emsp;<a href="">Change</a></p>
+			<p>Password:&ensp;&emsp;*******&emsp;&emsp;&emsp;&emsp;&ensp;<a href="">Change</a></p>
+			<p>Email:&emsp;&emsp;&emsp;&nbsp;support@thebeacon.com.au</p>
+			<br />
+			<p>Beacon Level</p>
+			<!--
+				Not functional because there is no server or code behind.
+			-->
+			<p style="font-size: 14px;">Change the amount of displayed content while reading articles.</p>
+			<a href=""><div class="levelBox" style="background-color: lightgray;">Level 1<br><br>Text only</div></a>
+			<a href=""><div class="levelBox">Level 2<br><br>Text and images</div></a>
+			<a href=""><div class="levelBox">Level 3<br><br>Text, images and videos</div></a>
+			<a href=""><div class="levelBox">Level 4<br><br>All content</div></a>
+			<br style="clear:both;" /><br />
+			<p>Friends</p>
+			<div style="float: left; width: 49%;"><h3>Add Friend</h3><p style="border: 1px solid grey; width: 75%;">&#128269;Search</p></div>
+			<div style="float: right; width: 49%;"><h3>Your Friends</h3>
+				<p>Abraham&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="">Remove</a></p>
+				<p>Rosemary&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<a href="">Remove</a></p>
+				<p>Susan&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<a href="">Remove</a></p></div>
 		</div>
 		
 	</div>
