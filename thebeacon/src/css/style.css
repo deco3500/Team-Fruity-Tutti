@@ -212,15 +212,15 @@ body 			{
 #all 			{
 					width: 100%;
 					float: left;
-					overflow: hidden;
+					
 				}
 
 #nav 			{
 					float: left;
-					position:absolute;
+					position:fixed;
 					width: 20%;
 					margin-right: 50px;
-					background-color:#ffffff;
+					background-color:white;
 					margin-left:0px;
 					padding-right: 30px;
 					left:0px;
@@ -330,6 +330,7 @@ body 			{
 nav 			{
 					width: 100%;
 					height:100%;
+					position:fixed;
 					padding-top:60px;
 					float: left;
 					-webkit-transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
