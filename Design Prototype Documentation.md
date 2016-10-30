@@ -26,11 +26,16 @@ From this research we then wanted to figure out how we could engage elderly peop
 Our research direction also led us to understand that sensationalism in the news is a large issue in the elderly community. Newspapers tend to play up and dwell on stories that are of the sensationalised variety (for example, car crashes, murder, kidnapping) (“Current Problems in the Media,” 2016). A study found that elderly people avoid programs with sensational aspects (Kleemans, 2007). The issue of sensationalism may cause anxiety in the elderly generation, of which anxiety disorders at least two times more frequent than depression in the elderly (Gauthier, 2005).
 
 
-Primary Research:
+###Primary Research:
 After researching our problem space, we then went directly to target users to construct a concept of our target user group. Initially, as it was difficult to find lonely individuals over the age of 65, 5 middle aged to elderly participants from a local church group were used as the research demographic (Test Group A). From these meetings, personas were generated (see personas A, B & C on github). Key findings from research indicated that the group mainly got their news from traditional sources such as radio, TV and physical newspaper. It was also identified that they feel like they are being left behind with the large amount of new technology on the market and find that concepts they’re used to are comforting. For some participants, getting news from a digital source had never occurred to them. Most have some form of social interaction at church and work, however do not make the effort to socialise outside of church hours or work hours.
 
 
 As well as Test Group A, we had a primary user tester called Bob (figure 1) who is 76 and specifically the type of person we envision our application will be used by (Test Group B). He spends up to two hours per day getting the news via word of mouth, TV, radio and newspaper mediums. Although he belongs to community groups such as church and the Toowoomba local radio station, he does not socialise outside those hours and gets quite lonely.
+
+
+
+
+
 
 <img src="figure1.png" alt="Bob" style="width: 100px;"/>
 
