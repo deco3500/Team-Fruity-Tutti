@@ -3,7 +3,7 @@
 Prototype can be found at https://github.com/deco3500/Team-Fruity-Tutti/tree/master/thebeacon/src
 Simply open up the index.html page.
 
-A promotional video was created for the Beacon and can be viewed here:
+A promotional video was created for the Beacon and can be viewed here: https://youtu.be/Rle_wsSYlnE
 
 
 ##Summary:
