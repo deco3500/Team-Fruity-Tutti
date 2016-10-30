@@ -1,10 +1,11 @@
 ![alt text](titlepage.png "Title page")
 
 Prototype can be found at https://github.com/deco3500/Team-Fruity-Tutti/tree/master/thebeacon/src
-Simply open up the index.html page.
+Simply open up the index.html page to launch the site.
 
 A promotional video was created for the Beacon and can be viewed here: https://youtu.be/Rle_wsSYlnE
 
+Documentation that has been kept on our Google Drive throughout the semester such as user testing results etc. can be found on our Github under the Prototype Testing Process folder.
 
 ##Summary:
 Team Fruitti Tutti has been working on The Beacon for the past semester in DECO3500. The Beacon is an online digital news source that allows users to select a level of digital literacy and interact with friends through a pin-story social board while also solving the journalistic issue of sensationalism by only showing “good-news” stories. The key aim for the app is to make digital news engaging for the elderly (65+) as usually they are not willing to switch from traditional mediums such as TV, radio and newspapers. As our app has a socially-immersive concept, digital literacy levels and is non-sensationalist, through testing we have found that the elderly are likely to switch to this new online medium.
