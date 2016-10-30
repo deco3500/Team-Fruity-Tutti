@@ -80,7 +80,7 @@ We worked in four phases:
 
 Phase one commenced and the paper prototypes were created which were based on our digital literacy concept. The initial prototype (figure 2) was developed to get an overall vision for future development and to test the usability features on our target group. The paper prototype was kept very simple so that there was room to build upon the design (see Design Prototypes folder on GitHub for all paper prototype mockups). 
 
-<img src="figure2.png" alt="Paperprototype" style="width: 100px;"/>
+<img src="figure2.png" alt="Paperprototype" width="400"/>
 
 Testing was conducted on the prototype with Test Group A.  From this we were able to gauge two main findings, that the text on the prototype needed to be larger (change 12pt to 16pt) and that we should add a button that asks if the user wants to go to another page (ie. the user was clicking the wrong button which took them to the wrong page). We changed our prototype to reflect these findings. We then went back and tested on the same group (see Paper Prototyping Results on GitHub), which found that they liked the warning for leaving the page. The suggestion of a visible menu was also made as they found it difficult to visualise clicking on a hidden menu. 
 
@@ -88,13 +88,13 @@ Testing was conducted on the prototype with Test Group A.  From this we were abl
 In phase two, a digital prototype was created (figure 3), for the full digital prototype, please visit https://www.fluidui.com/editor/live/preview/p_QZUQVJMuQTTI53o9CmzPIiDUATbA52AT.1473765142959. This helped us understand how the elements would fit on the page, which worked well. We then needed to define what type of design style we were going to use.
 
 
-<img src="figure3.png" alt="digitalprototype" style="width: 100px;"/>
+<img src="figure3.png" alt="digitalprototype" width="400"/>
 
 **Week 8 Standup:** At this standup, we showed the Feh and Grant our paper prototyping results. We were able to gage that we were on the right track at this point.
 
 In order to implement a more substantial prototype, we then decided to explore how we would create the user interface. In order to do so, we created a mood board (figure 4) so that implementation would be easier (eg. colour pallet, text size, font). 
 
-<img src="figure4.png" alt="moodboard" style="width: 100px;"/>
+<img src="figure4.png" alt="moodboard" width="400"/>
 
 Justification behind elements on mood board:
 
@@ -104,7 +104,7 @@ Justification behind elements on mood board:
 
 We then started creating the interactive prototype in Phase 2. To ensure we took our prototype feedback into consideration, we changed the layout of the global navigation (figure 5). Instead of having a hidden navigation, we created a visible navigation. This was to ensure that elderly users didn’t get lost within the site and that all tabs were easily accessible and simple.
 
-<img src="figure5.png" alt="moodboard" style="width: 100px;"/>
+<img src="figure5.png" alt="moodboard" width="400"/>
 
 To ensure that the navigation met the target user groups technical ability, we tested this feature once again on Test Group A. Even though none of the links worked, when presented with the paper prototype and this implementation, all 5 agreed that the visible nav was the best as it was simple to click on.
 
@@ -119,17 +119,17 @@ In order to meet the brief, we went back to the start of the design process and 
 
 A mockup of the bulletin board was then created (figure 6) so that we could implement it onto the website. As there was only a short timeframe between concept change and ideation, there was no time to test this concept before the next standup/ implementation on website. 
 
-<img src="figure6.png" alt="socialboard" style="width: 100px;"/>
+<img src="figure6.png" alt="socialboard" width="400"/>
 
 Majority of the website was then implemented so that we could get feedback at the next stand up and test the next week (figure 7). 
 
-<img src="figure7.png" alt="socialboard" style="width: 100px;"/>
+<img src="figure7.png" alt="socialboard" width="400"/>
 
 **Week 12 Standup:** Grant liked that our concept incorporated elements of the social side and a journalistic problem.
 
 After receiving the green light, we went to test the application. For initial testing of the web application, we used Test Group B (Bob) [Figure 8].
 
-<img src="figure8.png" alt="bob2" style="width: 100px;"/>
+<img src="figure8.png" alt="bob2" width="300"/>
 
 User testing with Bob found that the simplicity of the website was really comforting for older users. After learning the website and figuring out how to use it, he was able to easily access news stories and the social board. He liked that there was a social aspect and that he could see what his friends were posting. As he could clearly see all options in the global nav on the side, it was very simple for him to access the stories he wanted to read.
 
@@ -139,25 +139,25 @@ At the end of user testing, Bob mentioned that he would likely switch to this if
 
 To incorporate Bob’s feedback, the site went through an entire revamp (figure 9). This also fed in nicely with our research which suggested using different contrasts of colours for those which have difficult eyesight.
 
-<img src="figure9.png" alt="digital" style="width: 100px;"/>
+<img src="figure9.png" alt="digital" width="400"/>
 
 A pin was added in the right hand corner of each story so that users can pin their stories (figure 10).
 
-<img src="figure10.png" alt="digital2" style="width: 100px;"/>
+<img src="figure10.png" alt="digital2" width="400"/>
 
 Testing was also done on two previous participants of test group A. These two users, one a graphic designer the other a systems administrator were given a set of instructions by the interviewer to perform on the site. Each interview was documented in a short video capturing the interactions on screen of each participant. (Note, volume may be a little soft).
 
 Graphic designer age 55: 
 https://drive.google.com/open?id=0B1EO0JG6Owo4eVRqN3lzcmNHNDg
 
-<img src="figure11.jpg" alt="usertesting" style="width: 100px;"/>
+<img src="figure11.jpg" alt="usertesting" width="350"/>
 
 The graphic designer found that in some cases the background was too bright, which made it hard to read. The purpose of the levels was also, at first unclear but became apparent after each level had been explored.
 
 Systems administrator age 58: 
 https://drive.google.com/open?id=0B1EO0JG6Owo4Q0xPNGZtU2FMWXc
 
-<img src="figure12.jpg" alt="usertesting" style="width: 100px;"/>
+<img src="figure12.jpg" alt="usertesting" width="350"/>
 
 The systems admin was a little confused regarding the layout of our navigation bar, especially the home page. He also found that the screen was a bit too bright on a few of the pages, this problem however is probably due to screen brightness rather than a problem on the site. 
 
