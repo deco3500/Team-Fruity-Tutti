@@ -1,4 +1,4 @@
-![alt text](titlepage.png "Title page")
+<img src="titlepage.png" alt="Title page" width="500"/>
 
 Prototype can be found at https://github.com/deco3500/Team-Fruity-Tutti/tree/master/thebeacon/src
 Simply open up the index.html page to launch the site.
