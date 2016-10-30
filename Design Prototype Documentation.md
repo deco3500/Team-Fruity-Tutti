@@ -33,7 +33,9 @@ After researching our problem space, we then went directly to target users to co
 As well as Test Group A, we had a primary user tester called Bob (figure 1) who is 76 and specifically the type of person we envision our application will be used by (Test Group B). He spends up to two hours per day getting the news via word of mouth, TV, radio and newspaper mediums. Although he belongs to community groups such as church and the Toowoomba local radio station, he does not socialise outside those hours and gets quite lonely.
 
 
-![alt text](figure1.png =250x)
+![alt text](figure1.png = "Bob")
+<img src="figure1.png" alt="Bob" style="width: 200px;"/>
+
 
 
 
