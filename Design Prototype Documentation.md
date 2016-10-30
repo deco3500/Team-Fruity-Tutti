@@ -10,6 +10,8 @@ Documentation that has been kept on our Google Drive throughout the semester suc
 ##Summary:
 Team Fruitti Tutti has been working on The Beacon for the past semester in DECO3500. The Beacon is an online digital news source that allows users to select a level of digital literacy and interact with friends through a pin-story social board while also solving the journalistic issue of sensationalism by only showing “good-news” stories. The key aim for the app is to make digital news engaging for the elderly (65+) as usually they are not willing to switch from traditional mediums such as TV, radio and newspapers. As our app has a socially-immersive concept, digital literacy levels and is non-sensationalist, through testing we have found that the elderly are likely to switch to this new online medium. This document aims to outline how Team Frutti Tutti created The Beacon from ideation to prototyping.
 
+Within the application, the "Social Board" represents stories users and their friends have posted. The red represents user stories and the blue represents their friends pinned stories. Users can add their friends to their network via email on the My Profile page. All news stories are "Good News" stories and community focused. These stories are filtered by a news team behind the scenes who then post the stories. There are also four levels of digital literacy users can select from.
+
 #Process
 ##Research
 
