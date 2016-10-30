@@ -1,5 +1,22 @@
 # Team-Fruity-Tutti
 
+Find our design documentation for submission at: https://github.com/deco3500/Team-Fruity-Tutti/blob/master/Design%20Prototype%20Documentation.md
+
+
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+
+
+
+
+
+
+
 A Project by Team Fruity-Tutti
 
 ![alt text](titlepage.png "Title page")
