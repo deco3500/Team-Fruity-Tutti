@@ -2,7 +2,7 @@
 
 Find our design documentation for submission at: https://github.com/deco3500/Team-Fruity-Tutti/blob/master/Design%20Prototype%20Documentation.md
 
-
+Promotional Video: https://youtu.be/Rle_wsSYlnE
 <br>
 <br><br>
 <br>
