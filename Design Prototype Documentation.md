@@ -32,7 +32,8 @@ After researching our problem space, we then went directly to target users to co
 
 As well as Test Group A, we had a primary user tester called Bob (figure 1) who is 76 and specifically the type of person we envision our application will be used by (Test Group B). He spends up to two hours per day getting the news via word of mouth, TV, radio and newspaper mediums. Although he belongs to community groups such as church and the Toowoomba local radio station, he does not socialise outside those hours and gets quite lonely.
 
-<img src="figure1.png" alt="Bob" style="width: 100px;"/>
+<img src="figure1.png" alt="Bob" width="50"/>
+
 
 ###Design Research:
 Design research into the best way to engage elderly users and cater to their needs was also carried out. From the research, we found that it is difficult for older demographics to read text that is small and close. Colour vision also declines with age (difficult to distinguish between similar colours). Hearing also declines and the elderly experience hearing loss. Due to poor motor control, older people tend to have trouble hitting interface targets that aren’t clearly defined (Friedman, 2016). We will need to include solutions to these features in the final design and in order to ensure that the elderly generation can use the application, it will be tested on the target group.
