@@ -95,4 +95,85 @@ In order to implement a more substantial prototype, we then decided to explore h
 
 <img src="figure4.png" alt="moodboard" style="width: 100px;"/>
 
+Justification behind elements on mood board:
 
+* From our initial research we found that using very different colours in our colour pallet would allow elderly users to differentiate the different segments/ text/ content etc. Therefore we have included this array of different colours.
+
+* The size of the text will be at least 16px to cater to readers whose vision is deteriorating.
+
+We then started creating the interactive prototype in Phase 2. To ensure we took our prototype feedback into consideration, we changed the layout of the global navigation (figure 5). Instead of having a hidden navigation, we created a visible navigation. This was to ensure that elderly users didn’t get lost within the site and that all tabs were easily accessible and simple.
+
+<img src="figure5.png" alt="moodboard" style="width: 100px;"/>
+
+To ensure that the navigation met the target user groups technical ability, we tested this feature once again on Test Group A. Even though none of the links worked, when presented with the paper prototype and this implementation, all 5 agreed that the visible nav was the best as it was simple to click on.
+
+
+We also used a contrast checker on the global navigation to ensure that the colours did not clash (all colour combos came back fine).
+
+**Week 10 Standup/ Week 11 Feedback:** At the week 10 standup, we presented our findings and Grant also mentioned that we should try and define a social or mobile concept as ours was not meeting the brief. The next week Feh and Grant also discussed that we needed to figure out a journalistic concept. This made us think more in depth about our concept in Phase three.
+
+
+In order to meet the brief, we went back to the start of the design process and conducted some more research (as described in research and requirements section) surrounding loneliness in the elderly and sensationalism in the news. We decided to incorporate these common problems into our website by engaging a social presence using the social board to combat loneliness and focusing on only good news stories to combat sensationalism. 
+
+
+A mockup of the bulletin board was then created (figure 6) so that we could implement it onto the website. As there was only a short timeframe between concept change and ideation, there was no time to test this concept before the next standup/ implementation on website. 
+
+<img src="figure6.png" alt="socialboard" style="width: 100px;"/>
+
+Majority of the website was then implemented so that we could get feedback at the next stand up and test the next week (figure 7). 
+
+<img src="figure7.png" alt="socialboard" style="width: 100px;"/>
+
+**Week 12 Standup:** Grant liked that our concept incorporated elements of the social side and a journalistic problem.
+
+After receiving the green light, we went to test the application. For initial testing of the web application, we used Test Group B (Bob) [Figure 8].
+
+<img src="figure8.png" alt="bob2" style="width: 100px;"/>
+
+User testing with Bob found that the simplicity of the website was really comforting for older users. After learning the website and figuring out how to use it, he was able to easily access news stories and the social board. He liked that there was a social aspect and that he could see what his friends were posting. As he could clearly see all options in the global nav on the side, it was very simple for him to access the stories he wanted to read.
+
+
+At the end of user testing, Bob mentioned that he would likely switch to this if he had access to an iPad. However, because he only has a computer which takes 10 minutes to boot up, it would be a better use of time just to switch on the TV or open the newspaper. One improvement he did mention, was that the site was a bit uninteresting, so suggested use of colour to make it more user friendly.
+
+
+To incorporate Bob’s feedback, the site went through an entire revamp (figure 9). This also fed in nicely with our research which suggested using different contrasts of colours for those which have difficult eyesight.
+
+<img src="figure9.png" alt="digital" style="width: 100px;"/>
+
+A pin was added in the right hand corner of each story so that users can pin their stories (figure 10).
+
+<img src="figure10.png" alt="digital2" style="width: 100px;"/>
+
+Testing was also done on two previous participants of test group A. These two users, one a graphic designer the other a systems administrator were given a set of instructions by the interviewer to perform on the site. Each interview was documented in a short video capturing the interactions on screen of each participant. (Note, volume may be a little soft).
+
+Graphic designer age 55: 
+https://drive.google.com/open?id=0B1EO0JG6Owo4eVRqN3lzcmNHNDg
+
+<img src="figure11.jpg" alt="usertesting" style="width: 100px;"/>
+
+The graphic designer found that in some cases the background was too bright, which made it hard to read. The purpose of the levels was also, at first unclear but became apparent after each level had been explored.
+
+Systems administrator age 58: 
+https://drive.google.com/open?id=0B1EO0JG6Owo4Q0xPNGZtU2FMWXc
+
+<img src="figure12.jpg" alt="usertesting" style="width: 100px;"/>
+
+The systems admin was a little confused regarding the layout of our navigation bar, especially the home page. He also found that the screen was a bit too bright on a few of the pages, this problem however is probably due to screen brightness rather than a problem on the site. 
+
+**Feedback Week 13:** The feedback from the tutors was to define more clearly how users see who pinned a story. To incorporate this feature, we have added a text field at the bottom to show who pinned the story.
+
+
+To further incorporate a user friendliness for elderly people, we also added a button to increase and decrease the text. 
+
+**How the Team Worked:**
+In our assignment, everyone worked multi-disciplinarily however Zoe focused on design, documentation, implementation of prototype and created the video, Theodore focused on functionality and implementation of prototype, Jonas focused on testing and documentation and Grace focused on design, documentation and some testing.
+
+References:
+* Theconversation.com. (2016). [online] Available at: http://theconversation.com/australias-digital-divide-is-narrowing-but-getting-deeper-55232 [Accessed 4 Sep. 2016].
+* Liberal Party of Australia. (2016). Improving the digital confidence and skills of senior Australians. [online] Available at:https://www.liberal.org.au/latest-news/2016/06/26/improving-digital-confidence-and-skills-senior-australians [Accessed 4 Sep. 2016].
+* Chen, R. (2012). Why Old People Have a Hard Time Learning New Things. Retrieved August 24, 2016, from Embrace Possibility, http://www.embracepossibility.com/blog/why-old-people-have-a-hard-time-learning-new-things/
+* Grenade, L., & Boldy, D. (2008, August ). Social isolation and loneliness among older people: Issues and future challenges in community and residential settings. Retrieved October 15, 2016, from CSIRO, http://www.publish.csiro.au/AH/pdf/AH080468
+* Kleemans, M. (2007). Explaining Sensationalism in Television News (1st ed.). Radboud University Nijmegen.
+* Gauthier, J. (2005, May). Anxiety Disorders. Retrieved October 21, 2016, from Anxiety Canada, http://www.anxietycanada.ca/english/pdf/ElderlyEn.pdf
+* Current Problems in the Media. (2016, October 21). Retrieved October 21, 2016, from Daily Source, http://www.dailysource.org/about/problems#.WAqta-B942w
+* Friedman, V. (2016, June 20). Designing Digital Technology for the Elderly. Retrieved September 16, 2016, from Smashing Magazine, https://www.smashingmagazine.com/2015/02/designing-digital-technology-for-the-elderly/
