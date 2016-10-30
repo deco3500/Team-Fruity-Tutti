@@ -32,12 +32,40 @@ After researching our problem space, we then went directly to target users to co
 
 As well as Test Group A, we had a primary user tester called Bob (figure 1) who is 76 and specifically the type of person we envision our application will be used by (Test Group B). He spends up to two hours per day getting the news via word of mouth, TV, radio and newspaper mediums. Although he belongs to community groups such as church and the Toowoomba local radio station, he does not socialise outside those hours and gets quite lonely.
 
-
-
-
-
-
 <img src="figure1.png" alt="Bob" style="width: 100px;"/>
+
+###Design Research:
+Design research into the best way to engage elderly users and cater to their needs was also carried out. From the research, we found that it is difficult for older demographics to read text that is small and close. Colour vision also declines with age (difficult to distinguish between similar colours). Hearing also declines and the elderly experience hearing loss. Due to poor motor control, older people tend to have trouble hitting interface targets that aren’t clearly defined (Friedman, 2016). We will need to include solutions to these features in the final design and in order to ensure that the elderly generation can use the application, it will be tested on the target group.
+
+##Requirements:
+From our research, we have identified that elderly people, aged 65+ are unlikely to use digital mediums to get their news. Our aim will be to make digital news engaging for the elderly so that they move away from their traditional mediums and into the new technology age. In order to engage the elderly, we will address the journalistic issue of sensationalism by focusing on only showing “good news” community stories. This will ensure that the users do not get distressed or anxiety attacks from sensationalised news that is traditionally shown in TV, radio and newspaper. 
+
+
+To ensure our app caters to all levels of reading and digital ability, four levels of digital literacy will be selectable. The first level will include text only, the second level will include text and image, the third level will include text, image and video and the fourth level will include text, image, video and social media. Having this wide variety of selection will ensure that the elderly users feel comfortable using the app. This will also pull on emotional design, in that they can choose a medium they’re used to (ie. text and image is similar to newspaper). 
+
+
+We have also decided to focus on social isolation in the elderly as well as digital literacy and our research has highlighted that 50 to 60 percent of Australians living residentially suffer from loneliness due to living by themselves or not having much social interaction. We also found that a key intervention to reducing loneliness for the elderly includes developing community networks, which is what we were thinking of doing with our concept. We believe that this could be a core motivator in getting the elderly to engage in a digital news medium.
+
+
+We have decided that to ensure our application embodies a community focus we will create a “bulletin” type of board where the users can pin stories they find interesting to. They would also be able to see stories their friends have pinned. The stories highlighted in red will represent the stories they’ve pinned and the stories highlighted blue will represent the stories from other community members.
+
+
+One of the sources we found also mentioned that the most effective intervention in reducing loneliness was utilising existing community resources to make the elderly feel more comfortable and in this case that would be the bulletin board.This would also incorporate elements of emotional design.
+
+
+We believe that this combination of un-sensationalised news, levels of digital literacy and a social board for pinning stories to will help ease the transition from traditional to digital news easier and make engaging in online news mediums exciting for the elderly.
+
+
+To ensure our design caters to the elderly, the following design elements will be taken into consideration:
+* The user interface is kept simple so that the elderly don’t get confused
+* Font sizes smaller than 16 pixels are avoided
+* Contrast ratios between text and background colour are considered
+* Distance between key functions are considered to ensure motor control is acceptable
+* The website is resizable so that it can be used on a mobile/ ipad interface or on the web
+
+
+
+
 
 
 
