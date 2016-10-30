@@ -81,12 +81,18 @@ Phase one commenced and the paper prototypes were created which were based on ou
 
 <img src="figure2.png" alt="Paperprototype" style="width: 100px;"/>
 
+Testing was conducted on the prototype with Test Group A.  From this we were able to gauge two main findings, that the text on the prototype needed to be larger (change 12pt to 16pt) and that we should add a button that asks if the user wants to go to another page (ie. the user was clicking the wrong button which took them to the wrong page). We changed our prototype to reflect these findings. We then went back and tested on the same group (see Paper Prototyping Results on GitHub), which found that they liked the warning for leaving the page. The suggestion of a visible menu was also made as they found it difficult to visualise clicking on a hidden menu. 
 
 
+In phase two, a digital prototype was created (figure 3), for the full digital prototype, please visit https://www.fluidui.com/editor/live/preview/p_QZUQVJMuQTTI53o9CmzPIiDUATbA52AT.1473765142959. This helped us understand how the elements would fit on the page, which worked well. We then needed to define what type of design style we were going to use.
 
 
+<img src="figure3.png" alt="digitalprototype" style="width: 100px;"/>
 
+**Week 8 Standup:** At this standup, we showed the Feh and Grant our paper prototyping results. We were able to gage that we were on the right track at this point.
 
+In order to implement a more substantial prototype, we then decided to explore how we would create the user interface. In order to do so, we created a mood board (figure 4) so that implementation would be easier (eg. colour pallet, text size, font). 
 
+<img src="figure4.png" alt="moodboard" style="width: 100px;"/>
 
 
