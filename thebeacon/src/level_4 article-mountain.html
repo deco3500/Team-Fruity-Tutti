@@ -15,7 +15,7 @@
 			background-color: #0A3F54;
 		}
 	</style>
-	<script>
+<script>
 var bleep = new Audio();
 bleep.src = 'audio/pinit.mp3';
 var bleep1 = new Audio();
@@ -23,6 +23,20 @@ bleep1.src = 'audio/ding.mp3';
 var bleep2 = new Audio();
 bleep2.src = 'audio/scratch.mp3';
 </script>
+<script>
+function increaseFontSize(objId) {
+obj = document.getElementById(objId);
+//get current font size of obj
+currentSize = parseFloat(obj.style.fontSize); //parseFloat gives you just the numerical value, i.e. strips the 'em' bit away
+obj.style.fontSize = (currentSize + .1) + "em";
+}</script>
+<script>
+function decreaseFontSize(objId) {
+obj = document.getElementById(objId);
+//get current font size of obj
+currentSize = parseFloat(obj.style.fontSize); //parseFloat gives you just the numerical value, i.e. strips the 'em' bit away
+obj.style.fontSize = (currentSize - .1) + "em";
+}</script>
 </head>
 
 <body>
@@ -51,6 +65,14 @@ bleep2.src = 'audio/scratch.mp3';
 				<img src="images/pinicon.png" alt="Verizon drone" id="pinbuttonicon" onmousedown="bleep.play()" onmouseover ="this.src ='images/piniconhover.png'" onmouseout ="this.src='images/pinicon.png'" href = "#openmodal">	
 		</div>
 		</a>
+
+
+			<div>
+				<a href="javascript:increaseFontSize('mydiv');"><img src = "images/zoomin.png" id = "zoomin"></a>
+			</div>
+			<div>
+				<a href="javascript:decreaseFontSize('mydiv');"><img src = "images/zoomout.png" id = "zoomout"></a>
+			</div>
 			<h1 id="articleTitle">JUNKO TABEI: FIRST WOMAN TO CLIMB MOUNT EVEREST DIES AGED 77</h1>
 			<h3 class="byline" id="author">By ABC NEWS</h3>
 			<h4 class="byline" id="articledate">October 23, 2016 4:50 PM</h4>
@@ -66,6 +88,7 @@ bleep2.src = 'audio/scratch.mp3';
    			 </div>
 		</div>
 			<img src="images/moutainarticle.png" alt="Mars" id="contentimage">
+			<div id="mydiv" style="font-size: 1em">
 			<p>
 				<b><span class="firstcharacter">T</span>he first woman to climb Mount Everest, Junko Tabei, has died aged 77.The Japanese climber had been diagnosed with cancer and died at a hospital outside of Tokyo.</b>
 			</p>
@@ -112,6 +135,7 @@ bleep2.src = 'audio/scratch.mp3';
 			</p>
 			<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fitvnews%2Fposts%2F10154184546627672&width=500" width="500" height="486" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" id ="socialmedia"></iframe>
 			
+		</div>
 		</div>
 		
 	</div>

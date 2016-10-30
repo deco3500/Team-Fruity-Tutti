@@ -23,6 +23,20 @@ bleep1.src = 'audio/ding.mp3';
 var bleep2 = new Audio();
 bleep2.src = 'audio/scratch.mp3';
 </script>
+<script>
+function increaseFontSize(objId) {
+obj = document.getElementById(objId);
+//get current font size of obj
+currentSize = parseFloat(obj.style.fontSize); //parseFloat gives you just the numerical value, i.e. strips the 'em' bit away
+obj.style.fontSize = (currentSize + .1) + "em";
+}</script>
+<script>
+function decreaseFontSize(objId) {
+obj = document.getElementById(objId);
+//get current font size of obj
+currentSize = parseFloat(obj.style.fontSize); //parseFloat gives you just the numerical value, i.e. strips the 'em' bit away
+obj.style.fontSize = (currentSize - .1) + "em";
+}</script>
 </head>
 
 <body>
@@ -51,6 +65,14 @@ bleep2.src = 'audio/scratch.mp3';
 				<img src="images/pinicon.png" alt="Verizon drone" id="pinbuttonicon" onmousedown="bleep.play()" onmouseover ="this.src ='images/piniconhover.png'" onmouseout ="this.src='images/pinicon.png'" href = "#openmodal">	
 		</div>
 		</a>
+	
+
+			<div>
+				<a href="javascript:increaseFontSize('mydiv');"><img src = "images/zoomin.png" id = "zoomin"></a>
+			</div>
+			<div>
+				<a href="javascript:decreaseFontSize('mydiv');"><img src = "images/zoomout.png" id = "zoomout"></a>
+			</div>
 			<h1 id="articleTitle">CASH IS FOR CRIMINALS: WHY WE SHOULD SCRAP BIG NOTES</h1>
 			<h3 class="byline" id="author">By Nathan Coates</h3>
 			<h4 class="byline" id="articledate">October 21, 2016 4:50 PM</h4>
@@ -66,6 +88,7 @@ bleep2.src = 'audio/scratch.mp3';
         	<a href ="#close" onmousedown="bleep2.play()"><button type="button" id = "YN" >NO</button></a>
    			 </div>
 		</div>
+		<div id="mydiv" style="font-size: 1em">
 			<p>
 				<b><span class="firstcharacter">A</span> massive stash of cash may sound like a good thing, but according to one US economist, the vast numbers of banknotes in circulation around the world are making us poorer and less safe.</b>
 			</p>
@@ -160,6 +183,7 @@ bleep2.src = 'audio/scratch.mp3';
 
 			<br />
 			
+		</div>
 		</div>
 		
 	</div>

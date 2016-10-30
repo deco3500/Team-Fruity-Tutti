@@ -23,6 +23,20 @@ bleep1.src = 'audio/ding.mp3';
 var bleep2 = new Audio();
 bleep2.src = 'audio/scratch.mp3';
 </script>
+<script>
+function increaseFontSize(objId) {
+obj = document.getElementById(objId);
+//get current font size of obj
+currentSize = parseFloat(obj.style.fontSize); //parseFloat gives you just the numerical value, i.e. strips the 'em' bit away
+obj.style.fontSize = (currentSize + .1) + "em";
+}</script>
+<script>
+function decreaseFontSize(objId) {
+obj = document.getElementById(objId);
+//get current font size of obj
+currentSize = parseFloat(obj.style.fontSize); //parseFloat gives you just the numerical value, i.e. strips the 'em' bit away
+obj.style.fontSize = (currentSize - .1) + "em";
+}</script>
 </head>
 
 <body>
@@ -51,6 +65,14 @@ bleep2.src = 'audio/scratch.mp3';
 				<img src="images/pinicon.png" alt="Verizon drone" id="pinbuttonicon" onmousedown="bleep.play()" onmouseover ="this.src ='images/piniconhover.png'" onmouseout ="this.src='images/pinicon.png'" href = "#openmodal">	
 		</div>
 		</a>
+		
+
+			<div>
+				<a href="javascript:increaseFontSize('mydiv');"><img src = "images/zoomin.png" id = "zoomin"></a>
+			</div>
+			<div>
+				<a href="javascript:decreaseFontSize('mydiv');"><img src = "images/zoomout.png" id = "zoomout"></a>
+			</div>
 			<h1 id="articleTitle">TROUBLING PICS EMERGE OF AZALEA THE SMOKING CHIMPANZEE, A FEATURED ANIMAL AT NORTH KOREA’S PYONGYANG ZOO</h1>
 			<h3 class="byline" id="author">By Eric Talmadge and Victoria Nielsen</h3>
 			<h4 class="byline" id="articledate">October 20, 2016 4:50 PM</h4>
@@ -65,6 +87,7 @@ bleep2.src = 'audio/scratch.mp3';
         	<a href ="#close" onmousedown="bleep2.play()"><button type="button" id = "YN" >NO</button></a>
    			 </div>
 		</div>
+		<div id="mydiv" style="font-size: 1em">
 			<p><b>
 				<span class="firstcharacter">P </span>YONGYANG’S newly opened Central Zoo has a new star: Azalea, the smoking chimpanzee.</b>
 			</p>
@@ -105,7 +128,7 @@ bleep2.src = 'audio/scratch.mp3';
 
 			
 		</div>
-		
+		</div>
 	</div>
 	
 </body>

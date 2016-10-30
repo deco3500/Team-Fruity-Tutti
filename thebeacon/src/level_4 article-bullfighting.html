@@ -23,6 +23,20 @@ bleep1.src = 'audio/ding.mp3';
 var bleep2 = new Audio();
 bleep2.src = 'audio/scratch.mp3';
 </script>
+<script>
+function increaseFontSize(objId) {
+obj = document.getElementById(objId);
+//get current font size of obj
+currentSize = parseFloat(obj.style.fontSize); //parseFloat gives you just the numerical value, i.e. strips the 'em' bit away
+obj.style.fontSize = (currentSize + .1) + "em";
+}</script>
+<script>
+function decreaseFontSize(objId) {
+obj = document.getElementById(objId);
+//get current font size of obj
+currentSize = parseFloat(obj.style.fontSize); //parseFloat gives you just the numerical value, i.e. strips the 'em' bit away
+obj.style.fontSize = (currentSize - .1) + "em";
+}</script>
 </head>
 
 <body>
@@ -51,10 +65,23 @@ bleep2.src = 'audio/scratch.mp3';
 				<img src="images/pinicon.png" alt="Verizon drone" id="pinbuttonicon" onmousedown="bleep.play()" onmouseover ="this.src ='images/piniconhover.png'" onmouseout ="this.src='images/pinicon.png'" href = "#openmodal">	
 		</div>
 	</a>
+	<div>
+
+			<img src = "images/informationbutton.png" id ="informationbutton" onmouseover ="this.src ='images/informationbuttonhover.png'"  onmouseout ="this.src='images/informationbutton.png'" href = "#infobox">
+			</div>
+
+			<div>
+				<a href="javascript:increaseFontSize('mydiv');"><img src = "images/zoomin.png" id = "zoomin"></a>
+			</div>
+			<div>
+				<a href="javascript:decreaseFontSize('mydiv');"><img src = "images/zoomout.png" id = "zoomout"></a>
+			</div>
+
 			<h1 id="articleTitle">ANIMAL RIGHTS ACTIVISTS PROTEST IN BARCELONA AFTER SPANISH COURT OVERTURNS BULLFIGHTING BAN</h1>
 			<h3 class="byline" id="author">By ABC NEWS</h3>
 			<h4 class="byline" id="articledate">October 22, 2016 9:50 AM</h4>
 			<img src="images/bullfightingarticle.png" alt="Bull Fighting" id="contentimage">
+			<div id="mydiv" style="font-size: 1em">
 			<p>
 				Spain's Constitutional Court on Thursday overruled Catalonia's regional ban on bullfighting, saying the prohibition violated a national law protecting the controversial spectacle and it was exempt from being prohibited at a regional level.
 			</p>
@@ -103,6 +130,7 @@ bleep2.src = 'audio/scratch.mp3';
 			<br />
 			
 		</div>
+	</div>
 		
 	</div>
 	
