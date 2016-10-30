@@ -65,6 +65,24 @@ To ensure our design caters to the elderly, the following design elements will b
 
 
 
+##Design Process:
+
+Our first step in the design process, after researching our target group, was to develop personas. These personas were based off Test Group A (5 participants from local church group) as mentioned in the research portion of this document. 
+
+
+We worked in four phases: 
+* Phase one: Paper Prototype
+* Phase two: Digital Prototype 1 (mockups)
+* Phase three: Digital Prototype 2 (Web prototype)
+* Phase four: Digital Prototype 3 (Web prototype iteration)
+
+
+Phase one commenced and the paper prototypes were created which were based on our digital literacy concept. The initial prototype (figure 2) was developed to get an overall vision for future development and to test the usability features on our target group. The paper prototype was kept very simple so that there was room to build upon the design (see Design Prototypes folder on GitHub for all paper prototype mockups). 
+
+<img src="figure2.png" alt="Paperprototype" style="width: 100px;"/>
+
+
+
 
 
 
